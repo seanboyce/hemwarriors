@@ -3,4 +3,4 @@ remove the prefix from files (anything before and including the underscore) befo
 
 ESP8266 must be running NodeMCU.
 
-Main files are for the robot proper. Remote files are for a small wifi remote that connects to it.
+Main files are for the robot proper. Remote files are for a small wifi remote that connects to it. IoT files are a demo of remote sensing technology, the robot sends data to Ubidots. 
